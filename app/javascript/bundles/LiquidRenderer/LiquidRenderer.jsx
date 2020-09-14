@@ -53,5 +53,8 @@ export default () => {
         <RenderedTemplate template={code} data={data} />
       </div>
     </div>
+    <div>
+      Code <a href="https://github.com/jamesr2323/nested-liquid-demo">https://github.com/jamesr2323/nested-liquid-demo</a>
+    </div>
   </div>
 }
